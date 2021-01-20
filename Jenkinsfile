@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('test') {
       steps {
-        echo 'test to master'
+        echo 'test to error'
       }
     }
 
